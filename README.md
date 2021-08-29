@@ -1,4 +1,4 @@
-- 👋 What's up guys, I'm Jamshid
+- 👋 What's up guys, <b>I'm Jamshid</b>
 - 💻 I know Python, django
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 21-years old developer from Uzbekistan/Khorezm
